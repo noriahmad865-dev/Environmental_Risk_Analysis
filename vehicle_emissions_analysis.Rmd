@@ -17,4 +17,7 @@ This section includes the data analytics workflow and comparative evaluations of
 ```{r emissions_analysis}
 # Example code snippet (replace with your actual R code)
 # summary(emissions_data)
+```
+## Conclusions
 This analysis provides deeper insights into the environmental impact of different vehicle categories, supporting sustainable decision-making.
+
