@@ -1,30 +1,20 @@
 ---
-title: "r markdown intro"
-author: "carrie"
-date: "2026-07-19"
+title: "Environmental Risk Analysis: Vehicle Emissions"
+author: "Ahmad Noree Salem Noree"
+date: "2026-08-13"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-```
 
-## R Markdown
+## Project Overview: Environmental Risk Analysis & Vehicle Emissions
+This project aims to evaluate and compare carbon emissions and environmental lifecycle risks across various vehicle types.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## Data Analysis
+This section includes the data analytics workflow and comparative evaluations of CO2 emissions.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+```{r emissions_analysis}
+# Example code snippet (replace with your actual R code)
+# summary(emissions_data)
+This analysis provides deeper insights into the environmental impact of different vehicle categories, supporting sustainable decision-making.
